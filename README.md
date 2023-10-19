@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Repository
 <br>
-Author - Irfan Shaha
+Author - Irfan (apna collage)
